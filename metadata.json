@@ -1,0 +1,6 @@
+{
+  "name": "AP Governance & Transparency Portal",
+  "description": "Comprehensive Government Transparency and Public Governance Portal for Andhra Pradesh covering village panchayats to state administration, budgets, projects, GOs, and public grievances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
